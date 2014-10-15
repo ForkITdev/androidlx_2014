@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android LX Music</string>
+    <string name="download">Download</string>
+    <string name="search_hint">Enter name of song or artist</string>
+    <string name="play_song">Play Song</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="search">Search</string>
+    <string name="my_music">My Music</string>
+</resources>

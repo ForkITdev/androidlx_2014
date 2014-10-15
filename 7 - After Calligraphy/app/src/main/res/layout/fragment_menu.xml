@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/navigation_drawer_bg"
+    android:layout_height="match_parent">
+
+<ListView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:choiceMode="singleChoice"
+    android:id="@+id/lv_menu"
+    tools:context="pt.forkit.androidlx_2014.NavigationDrawerFragment" />
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/powered_by_soundcloud"
+    android:layout_gravity="bottom|right"/>
+
+</LinearLayout>
